@@ -4,9 +4,9 @@
  
  ---------------------
  
- Public repository:
+ Public code repository:
  
- Multichart, CSharpe, R 
+ Easylanguage, C#, R 
 
  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragve-hub&theme=default)
