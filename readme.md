@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> <a href="https://discord.gg/V6arrKAUrh" target="_blank">Discord Server</a> 
+<h3 align="center"> <a href="https://discord.gg/V6arrKAUrh" target="_blank">Discord Server</a> 
  
  Tools: Openquant, Quantdeveloper, Multicharts, R
   
