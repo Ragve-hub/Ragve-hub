@@ -4,9 +4,9 @@
  
  ---------------------
  
-Public: Drummond Geometry, Swingmachine (EasyLanguage,R,C#)
- 
-Private: OQ/QD: providers, strategy, research (R,C#)
+Public: drummond geometry, swingmachine (easyLanguage,r,c#)
+
+ Private: oq/qd providers, strategy, research (r,c#)
  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragve-hub&theme=default)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragve-hub&theme=default)
