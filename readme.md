@@ -4,7 +4,7 @@
  
  ---------------------
  
-Public: Drummond Geometry, Swingmachine (Multicharts,R,C#)
+Public: Drummond Geometry, Swingmachine (EasyLanguage,R,C#)
  
 Private: OQ/QD: providers, strategy, research (R,C#)
  
