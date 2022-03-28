@@ -4,9 +4,9 @@
  
  ---------------------
  
-Public repository Easylanguage, C#, R 
+Public: Drummond Geometry, Swingmachine (R,C#)
  
-Private repository Openquant/QuantDeveloper: providers, strategy, research
+Private: OQ/QD: providers, strategy, research (C#)
  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragve-hub&theme=default)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragve-hub&theme=default)
