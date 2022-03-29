@@ -4,10 +4,13 @@
  
  ---------------------
  
- Public: drummond geometry, swingmachine (easylanguage,r,c#) | Private: oq/qd providers, strategy, research (r,c#)
+Public: 
+<a href="https://github.com/Ragve-hub/EasyLanguage-code" target="">easylanguage,</a> 
+<a href="https://github.com/Ragve-hub/R-code " target="">r,</a> 
+<a href="https://github.com/Ragve-hub/CSharpe-code " target="">c#</a> 
+ | Private:
+ oq/qd
 
-
- 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragve-hub&theme=default)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragve-hub&theme=default)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ragve-hub&theme=default)
