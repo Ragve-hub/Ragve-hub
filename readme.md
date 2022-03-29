@@ -4,7 +4,7 @@
  
  ---------------------
  
- Public: drummond geometry, swingmachine (easyLanguage,r,c#) | Private: oq/qd providers, strategy, research (r,c#)
+ Public: drummond geometry, swingmachine (easylanguage,r,c#) | Private: oq/qd providers, strategy, research (r,c#)
 
 
  
