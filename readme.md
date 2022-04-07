@@ -1,15 +1,18 @@
+* В основном, репозитории используются нами для хранения и последующего обсуждения и доработки кода
+* Код создается для решения конкретных задач алгоритмического трейдинга 
+* Готовые идеи и торговые стратегии не выкладываются в открытый доступ
+* Отсутствует Code style
+* Issues не используются
+* Для общения есть дискорд (ссылка на сайте)
 
-
-<h4 align="center"> <a href="https://discord.gg/V6arrKAUrh" target="_blank">Discord Server</a> 
- 
- ---------------------
- 
-Public: 
+Открытые репозитории: 
 <a href="https://github.com/Ragve-hub/EasyLanguage-code" target="">easylanguage,</a> 
 <a href="https://github.com/Ragve-hub/R-code " target="">r,</a> 
 <a href="https://github.com/Ragve-hub/CSharpe-code " target="">c#</a> 
- | Private:
- oq/qd
+
+Закрытые репозитории:
+Quant Developer / OpenQuant
+
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragve-hub&theme=default)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragve-hub&theme=default)
