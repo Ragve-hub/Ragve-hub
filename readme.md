@@ -12,7 +12,7 @@
 
 Закрытые репозитории:
 <a href="https://github.com/Ragve-hub/QDevelop-code" target="">quantdeveloper,</a>  / 
-<a href="https://github.com/Ragve-hub/Oquant-code" target="">openquant,</a>
+<a href="https://github.com/Ragve-hub/Oquant-code" target="">openquant</a>
 
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragve-hub&theme=default)
