@@ -11,7 +11,8 @@
 <a href="https://github.com/Ragve-hub/CSharpe-code " target="">c#</a> 
 
 Закрытые репозитории:
-<a href="https://github.com/Ragve-hub/QDevelop-code" target="">quantdeveloper,</a>  / openquant
+<a href="https://github.com/Ragve-hub/QDevelop-code" target="">quantdeveloper,</a>  / 
+<a href="https://github.com/Ragve-hub/Oquant-code" target="">openquant,</a>
 
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragve-hub&theme=default)
