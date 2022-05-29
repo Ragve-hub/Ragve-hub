@@ -15,8 +15,6 @@
 
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragve-hub&theme=default)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragve-hub&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ragve-hub&theme=default&utcOffset=8)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragve-hub&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragve-hub&theme=default)
 
