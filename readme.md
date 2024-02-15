@@ -2,7 +2,9 @@
 * Код создается для решения конкретных задач алгоритмического трейдинга 
 * Готовые идеи и торговые стратегии не выкладываются в открытый доступ
 
-* Для общения есть дискорд (ссылка на сайте)
+* Для общения ссылка на <a href="https://discord.gg/V6arrKAUrh" target="">дискорд</a> 
+
+* Архив сайта <a href="https://ragve-hub.github.io/tale/" target="">ragve.ru</a> 
 
 Открытые репозитории: 
 <a href="https://github.com/Ragve-hub/EasyLanguage-code" target="">easylanguage,</a> 
