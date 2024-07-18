@@ -1,17 +1,13 @@
-* В основном, репозитории используются нами для хранения и последующего обсуждения и доработки кода
-* Код создается для решения конкретных задач алгоритмического трейдинга 
-* Готовые идеи и торговые стратегии не выкладываются в открытый доступ
+We use repositories for storage and subsequent discussion and modification of code
+he code is created to solve specific problems of algorithmic trading
+Ready-made ideas and trading strategies are not publicly available
 
-* Для общения ссылка на <a href="https://discord.gg/V6arrKAUrh" target="">дискорд</a> 
-
-* Архив сайта <a href="https://ragve-hub.github.io/tale/" target="">ragve.ru</a> 
-
-Открытые репозитории: 
+Open repositories: 
 <a href="https://github.com/Ragve-hub/EasyLanguage-code" target="">easylanguage,</a> 
 <a href="https://github.com/Ragve-hub/R-code " target="">r,</a> 
 <a href="https://github.com/Ragve-hub/CSharpe-code " target="">c#</a> 
 
-Закрытые репозитории:
+Сlosed repositories:
 <a href="https://github.com/Ragve-hub/QDevelop-code" target="">quantdeveloper,</a>  / 
 <a href="https://github.com/Ragve-hub/Oquant-code" target="">openquant</a>
 
