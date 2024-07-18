@@ -1,5 +1,7 @@
 We use repositories for storage and subsequent discussion and modification of code
-he code is created to solve specific problems of algorithmic trading
+
+Сode is created to solve specific problems of algorithmic trading
+
 Ready-made ideas and trading strategies are not publicly available
 
 Open repositories: 
