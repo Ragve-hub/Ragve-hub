@@ -1,7 +1,5 @@
 We use repositories for storage and subsequent discussion and modification of code. Сode is created to solve specific problems of algorithmic trading. Ready-made ideas and trading strategies are not publicly available.
 
- 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragve-hub&theme=default)
 
  Open repositories: 
 <a href="https://github.com/Ragve-hub/EasyLanguage-code" target="">easylanguage,</a> 
