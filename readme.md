@@ -1,15 +1,8 @@
-We use repositories for storage and subsequent discussion and modification of code. Сode is created to solve specific problems of algorithmic trading. Ready-made ideas and trading strategies are not publicly available.
+
+###  Политика конфиденциальности кода
+Весь коммерческий код, проприетарные библиотеки и рабочие алгоритмические фреймворки фонда хранятся исключительно в **приватных репозиториях** в целях защиты интеллектуальной собственности и соблюдения требований безопасности (NDA).
+
+###  Доступ к программным модулям и материалам
+Все рабочие скрипты, библиотеки и шаблоны систем на R, C++, C# доступны напрямую в приватной части основного сайта по персональным ключам доступа. 
 
 
- Open repositories: 
-<a href="https://github.com/Ragve-hub/EasyLanguage-code" target="">easylanguage,</a> 
-<a href="https://github.com/Ragve-hub/R-code " target="">r,</a> 
-<a href="https://github.com/Ragve-hub/CSharpe-code " target="">c#</a> 
-
-Сlosed repositories:
-<a href="https://github.com/Ragve-hub/QDevelop-code" target="">quantdeveloper,</a>  / 
-<a href="https://github.com/Ragve-hub/Oquant-code" target="">openquant</a>
-
-  
-
- 
